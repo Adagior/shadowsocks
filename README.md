@@ -2,4 +2,5 @@
 
 
 chmod +x install-shadowsocks.sh
+
 ./install-shadowsocks.sh
