@@ -1,6 +1,7 @@
 执行以下命令一键安装：
 
+wget https://raw.githubusercontent.com/Adagior/shadowsocks/master/shdowsocks.sh
 
-chmod +x install-shadowsocks.sh
+chmod +x shadowsocks.sh
 
-./install-shadowsocks.sh
+./shadowsocks.sh
